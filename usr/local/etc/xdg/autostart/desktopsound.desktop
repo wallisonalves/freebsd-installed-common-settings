@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=FreeBSD login sound
+Comment=FreeBSD login sound
+Exec=paplay /usr/local/share/sounds/freebsd/desktop-login.ogg
+Icon=preferences-desktop-theme
+Terminal=false
+Type=Application
